@@ -41,7 +41,6 @@ const Modal = ({
           <option value="open">Open</option>
           <option value="pending">Pending</option>
           <option value="inprog">Inprog</option>
-          <option value="complete">Complete</option>
         </select>
         <button
           type="submit"
